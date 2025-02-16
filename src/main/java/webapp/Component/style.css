@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+h1 {
+  color: red;
+}
+
+main {
+  width: 100vw;
+  height: 100vh;
+  padding-top: 50px;
+  background-image: url("../images/pawel-czerwinski--0xCCPIbl3M-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
